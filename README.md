@@ -1,21 +1,6 @@
 #README
+Class group exercise let by Matthew Minner, 7-20-17
 
-## .gitignore added.
-Run in terminal:  
-git config --global core.excludesfile ~/.gitignore_global
-
-
-# Sonnet exercise
-
-## Setup
-
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below. It doesn't matter what directory you are currently in.
-
-```bash
-mkdir -p ~/workspace/exercises/the-static-web/sonnet && cd $_
-touch index.html
-touch sonnet.js
-```
 
 ## Requirements
 
